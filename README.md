@@ -35,7 +35,7 @@ TODO: Add info here
 
 ### Prerequisites
 
-Make sure you have Visual Studio Code installed as this will be the tool we use to open and use the jupyter notebook
+Make sure you have [Python](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads) and [Visual Studio Code](https://code.visualstudio.com/download) installed on your computer before starting.
 
 ### Installation
 

@@ -1,5 +1,5 @@
 jupyter
 wwo_hist
-sklearn
+scikit-learn
 pandas
 matplotlib

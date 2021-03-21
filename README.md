@@ -46,7 +46,7 @@ Make sure you have Visual Studio Code installed as this will be the tool we use 
    ```
 3. Install dependencies
    ```sh
-   pip install -r requirements
+   pip install -r requirements.txt
    ```
 4. Enter your API key in `ml-workshop.ipynb`
 
@@ -55,7 +55,7 @@ Make sure you have Visual Studio Code installed as this will be the tool we use 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Open up `ml-workshop.ipynb` and you should be good to go!
+Open up `ml-workshop.ipynb` in VSCode and you should be good to go!
 
 
 

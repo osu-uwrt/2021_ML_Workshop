@@ -49,6 +49,9 @@ Make sure you have Visual Studio Code installed as this will be the tool we use 
    pip install -r requirements.txt
    ```
 4. Enter your API key in `ml-workshop.ipynb`
+    ```python
+    api_key = 'YOUR API KEY HERE'
+    ```
 
 
 

@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-TODO: Add info here
+This workshop introduces concepts of Machine Learning by solving a real world problem using machine learning concepts. A simple approach to solving the problem will be implemented first, then the complexity of the solution will be expaneded. Finally, the data the solution has access to is manually selected to further improve the solution and demonstrate overtraining. Basic concept of neural networks will also be discussed.
 
 
 

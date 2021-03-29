@@ -45,7 +45,7 @@ Make sure you have [Python](https://www.python.org/downloads/) and [Visual Studi
 2. Open this folder in Visual Studio Code. Click "Install", "Allow" or "Trust" for every message that pops up in the bottom right corner.
 3. Install dependencies by opening a terminal in Visual Studio Code and running
    ```sh
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 4. Open the file `ml-workshop.ipynb` and you should be good to go!
 

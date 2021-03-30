@@ -37,9 +37,11 @@ This workshop introduces concepts of Machine Learning by solving a real world pr
 
 ### Prerequisites
 
-Make sure you have [Python](https://www.python.org/downloads/) and [Visual Studio Code](https://code.visualstudio.com/download) installed on your computer before starting. When installing Python on Windows, make sure to check the "Add to PATH" checkbox on the first window.
+Before the workshop, make sure you have [Python](https://www.python.org/downloads/) and [Visual Studio Code](https://code.visualstudio.com/download) installed on your computer before starting. When installing Python on Windows, make sure to check the "Add to PATH" checkbox on the first window.
 
 ### Setup
+
+You do not need to complete these steps before the workshop, but you can if you want.
 
 1. Download a zip of the repo [from this link](https://github.com/osu-uwrt/2021_ML_Workshop/zipball/master) and unzip it.
 2. Open this folder in Visual Studio Code. Click "Install", "Allow" or "Trust" for every message that pops up in the bottom right corner.

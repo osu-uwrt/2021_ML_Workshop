@@ -43,7 +43,7 @@ Make sure you have [Python](https://www.python.org/downloads/) and [Visual Studi
    python -m pip install -r requirements.txt
    ```
    - If the installation fails, try it on a version of Python below 3.7. A windows installer for Python 3.6.8 can be found [here](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe). You may need to add it to your PATH environment variable and remove any other Python versions in there such that running `python -v` displays 3.6.8.
-4. Open the file `ml-workshop.ipynb` and you should be good to go!
+4. Open the file `ml-workshop.ipynb` and you should be good to go! If this step works, you are all set up for the workshop!
 
 ### API Key
 

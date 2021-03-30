@@ -20,20 +20,15 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This workshop introduces concepts of Machine Learning by solving a real world problem using machine learning concepts. A simple approach to solving the problem will be implemented first, then the complexity of the solution will be expaneded. Finally, the data the solution has access to is manually selected to further improve the solution and demonstrate overtraining. Basic concept of neural networks will also be discussed.
 
-
-
-
-
 <!-- GETTING STARTED -->
-## Getting Started
 
+## Getting Started
 
 ### Prerequisites
 
@@ -47,21 +42,21 @@ Make sure you have [Python](https://www.python.org/downloads/) and [Visual Studi
    ```sh
    python -m pip install -r requirements.txt
    ```
+   - If the installation fails, try it on a version of Python below 3.7. A windows installer for Python 3.6.8 can be found [here](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe). You may need to add it to your PATH environment variable and remove any other Python versions in there such that running `python -v` displays 3.6.8.
 4. Open the file `ml-workshop.ipynb` and you should be good to go!
 
 ### API Key
 
 If the weather data download is not working, the API key may have expired. To generate a new one visit [https://worldweatheronline.com](https://www.worldweatheronline.com/developer/signup.aspx) and place it in `ml-workshop.ipynb`
 
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Open up `ml-workshop.ipynb` and follow along with each of the sections.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Email: [osu.uwrt@gmail.com](mailto://osu.uwrt@gmail.com)
